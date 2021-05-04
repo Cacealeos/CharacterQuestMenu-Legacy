@@ -1,0 +1,51 @@
+//Level
+25
+//Tag
+Trump
+//Race
+1
+//Difficulty
+1
+//Age
+40
+//Strength
+10
+//Resistence
+3
+//SKill
+7
+//Intelligence
+4
+//Tech
+30
+//Mage Tech
+25
+//Combat Arts
+60
+//weapon Arts
+80
+//Manna Training
+25
+//Manna Bonus
+0
+//Life Force Bonus
+0
+//Religion
+0
+//Demon
+False
+//Drifter
+False
+//Training
+Ciaha,
+//Attribute
+False
+//Dark
+0
+//Light
+0
+//Evil
+0
+//Info
+
+

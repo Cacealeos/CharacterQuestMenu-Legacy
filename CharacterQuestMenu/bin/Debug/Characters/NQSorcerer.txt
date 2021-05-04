@@ -1,0 +1,51 @@
+//Level
+40
+//Tag
+
+//Race
+2
+//Difficulty
+1
+//Age
+60
+//Strength
+2
+//Resistence
+7
+//SKill
+5
+//Intelligence
+7
+//Tech
+50
+//Mage Tech
+75
+//Combat Arts
+40
+//weapon Arts
+30
+//Manna Training
+70
+//Manna Bonus
+0
+//Life Force Bonus
+0
+//Religion
+0
+//Demon
+False
+//Drifter
+False
+//Training
+Magian,Sorcery,
+//Attribute
+False
+//Dark
+0
+//Light
+0
+//Evil
+0
+//Info
+
+
